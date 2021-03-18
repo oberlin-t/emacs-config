@@ -7,4 +7,4 @@ company
 swiper
 prescient.el
 simpleclip.el
-doom-themes
+gruvbox
