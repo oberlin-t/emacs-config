@@ -6,7 +6,7 @@
 
 ;;Configure Packages
 (require 'smartparens-config)
-(smartparens-global-strict-mode)
+(smartparens-global-mode)
 
 (add-hook 'after-init-hook 'global-company-mode)
 
